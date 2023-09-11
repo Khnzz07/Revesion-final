@@ -1,0 +1,13 @@
+CREATE DATABASE PersonDB;
+
+
+CREATE TABLE person (
+    Name VARCHAR(50),
+    Email VARCHAR(50),
+    DOB DATE
+);
+
+insert into person (name , eamil, dob )
+values ('  '  ,   '  '  .  '   ' ), 
+            ('  '  ,   '  '  ,  '   ' ), 
+            ('  '  ,   '  '  ,  '   ' );
