@@ -1,0 +1,31 @@
+#c1{
+    background-color: orange;
+    padding: 25px;
+    
+}
+#c2{
+    background-color: pink;
+    padding: 25px 0px;
+    
+}
+#c3{
+    background-color: blueviolet;
+    padding: 25px;
+    
+}
+#c4{
+    background-color: lightblue;
+    padding: 25px;
+    
+}
+#c5{
+    background-color: yellowgreen;
+    padding: 25px;
+    
+}
+
+.d-block{
+    height: 80vh;
+}
+
+
